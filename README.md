@@ -1,0 +1,2 @@
+# Joint_probability_post-processing_precipitation_forecasts
+Joint probability distribution-based post-processing method for short-term precipitation forecasts
